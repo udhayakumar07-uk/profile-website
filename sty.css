@@ -149,6 +149,7 @@ body{
 }
 .about-img img{
     padding-bottom: 20%;
+    padding: 20px;
     max-width: 630px;
     height: auto;
     width: 100%;
