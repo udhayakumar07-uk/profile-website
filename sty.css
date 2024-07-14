@@ -580,6 +580,10 @@ section{
     margin-bottom: 10px;
     display: block;
 }
+.contact-list li a{
+    text-decoration: none;
+    color: white;
+}
 .contact-list i{
     display: inline-block;
     color: #0ef;
